@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Shampoo Sólido",
+    "description": "El mejor shampoo",
+    "price": "$150.00",
+    "thumbnail": "foto1.jpg",
+    "code": "shamp1",
+    "stock": "500 unidades"
+  },
+  {
+    "id": 2,
+    "title": "Acondicionador Sólido",
+    "description": "El mejor producto",
+    "price": "$160.00",
+    "thumbnail": "foto2.jpg",
+    "code": "aco1",
+    "stock": "200 unidades"
+  }
+]
